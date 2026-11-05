@@ -65,8 +65,8 @@
 
 | # | 攻略 | 覆盖 |
 | --- | --- | --- |
-| 01 | [致富证券（Chief Group）港股开户](docs/guides/01-broker-chief.md) | 内地身份证全线上开户 |
-| 02 | [盈立证券（uSmart）港股开户](docs/guides/02-broker-usmart.md) | 仍开放内地身份证开户的少数券商 |
+| 01 | [致富证券（Chief Group）港美股开户（美股免佣）](docs/guides/01-broker-chief.md) | 内地身份证全线上开户 |
+| 02 | [盈立证券（uSmart）港美股开户](docs/guides/02-broker-usmart.md) | 仍开放内地身份证开户的少数券商 |
 | 03 | [汇丰香港 HSBC ONE 线上开户](docs/guides/03-bank-hsbc.md) | 30 分钟提交流程 |
 | 04 | [中国银行香港 BOCHK 线上开户](docs/guides/04-bank-bochk.md) | 免排队 + 4 天后额度 20 万/日 |
 | 05 | [恒生银行 Mobile App 开户](docs/guides/05-bank-hang-seng.md) | 秒批出账号、NFC 读证件 |
@@ -76,7 +76,7 @@
 | 09 | [跨境支付通](docs/guides/09-crossborder-payment.md) | 人民币↔港币秒到账 |
 | 10 | [汇丰蓝狮子借记卡](docs/guides/10-card-blue-lion.md) | 12 币种免转换费 + 返现 + 取现成本 |
 | 11 | [2025–2026 港卡新规与材料总表](docs/guides/11-rules-2026.md) | 材料"3+2"、银行选择分层 |
-| 12 | [复星国际证券（Fosun）港股开户](docs/guides/12-broker-fosun.md) | 复星系持牌券商，SFC AAF432 |
+| 12 | [复星国际证券（Fosun）港美股开户（免佣）](docs/guides/12-broker-fosun.md) | 复星系持牌券商，SFC AAF432 |
 | 13 | [澳门蚂蚁银行（Ant Bank Macao）开户](docs/guides/13-bank-ant-macau.md) | 澳门金管局持牌银行，1 分钟开户，账户内直接做港美股 |
 
 👉 [进入攻略集索引](docs/guides/README.md)
