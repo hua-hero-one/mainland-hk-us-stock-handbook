@@ -17,49 +17,12 @@
 
 > ✅ **查牌照是必做动作。** 同集团不同持牌法团的产品条款、费率、资产隔离方式都不同。**以你开户时签署的《客户协议》上的持牌法团名称为准**，而不是以 App 名字或推广页名字为准。
 
----
 
-## 🎁 邀请码与开户链接
+---
 
 <a id="promo-12-fosun"></a>
 
-> **本节为推广位。** 本仓库与下方机构存在推广合作，你使用邀请码/链接开户会给作者带来返佣。**返佣来自机构，不来自你，不影响你的费率与合规性**；作者不因返佣改变上文对流程与风险的判断。
-
-| 项目 | 内容 |
-| --- | --- |
-| **邀请码** | `CYYB5C` |
-| **开户邀请链接** | [点击进入开户页](https://hk.usmartbroker.com/marketing/mgm-poster/mgm-lottery17.html?langType=1&ICode=vv44x&inviteName=&id=20240612002&bizId=20240612002&shareId=promotion&register-ct=m&register-cid=hk-2022-aug&avatar=#/pages/startAccount.html?channel=040003&aeCode=B2&invitationCode=CYYB5C&langType=zhCn) |
-| **推荐人** | 一只会说话的羊咩（跨境金融 KOL） |
-
-### 开户邀请链接
-
-```text
-https://hk.usmartbroker.com/marketing/mgm-poster/mgm-lottery17.html?langType=1&ICode=vv44x&inviteName=&id=20240612002&bizId=20240612002&shareId=promotion&register-ct=m&register-cid=hk-2022-aug&avatar=#/pages/startAccount.html?channel=040003&aeCode=B2&invitationCode=CYYB5C&langType=zhCn
-```
-
-> 📎 **建议直接复制这段完整链接**（含 `#` 后的参数）使用，否则邀请码参数可能丢失。链接较长，也可只用邀请码 `CYYB5C` 手动填写。
-
-> ⚠️ **请注意链接域名**：该链接托管在 `hk.usmartbroker.com`（uSmart 盈立的 WebApp 营销平台域名）上。**这不代表你开的是盈立的账户**——最终以开户确认信与《客户协议》上的持牌法团名称为准。**拿到开户确认信后，先核对名称是不是「復星國際證券有限公司 / Fosun International Securities Limited（AAF432）」。**
-
-### 为什么建议用邀请码 / 邀请链接开户？
-
-| 好处 | 说明 |
-| --- | --- |
-| **开户成功率更高** | 走推广通道进入的申请会带上**推荐人标识**。客服与合规侧能直接看到你的渠道归属，信息传递链路更顺，**被当成"来源不明的陌生申请"反复补件的概率更低** |
-| **开户速度更快** | 推广通道的申请在人工复核队列里**渠道可识别**，资料齐全时通常 **1–3 个工作日**完成，而不是来回补件拖到一周以上 |
-| **专属新人礼遇** | 部分机构对带邀请码的新客户有额外费率折扣、赠金或活动名额 |
-| **问题可追溯** | 通过推荐关系开户，遇到卡审核时更容易找到对应的客服/合规接口推动 |
-
-> ⚠️ **开户前先向客服确认三件事**（这一步能省掉后续扯皮）：
-> 1. 使用邀请码 `CYYB5C` 后的**默认佣金率与最低收费**具体是多少？**有没有比不用邀请码更差？**
-> 2. 邀请码对应的**优惠内容、门槛与有效期**分别是什么？
-> 3. **不使用邀请码会不会被拒绝开户？**（正常情况下不会——邀请码只影响归属与优惠，不影响你的开户资格）
->
-> 以上"成功率更高 / 速度更快"是**推广方口径**，请以上面三个问题的官方回复为准。
-
----
-
-> 🌐 **网络环境**：部分券商/银行的 App 与开户页面在**内地网络下无法完成提交**。解法是**全局模式 + 境外节点**，但**居住地址与税务居民身份仍须如实填写**。详见 [13 网络环境](../13-network-environment.md)
+> 💡 **用邀请码开户更快**：带上邀请码 `CYYB5C` 或走[开户邀请链接](https://hk.usmartbroker.com/marketing/mgm-poster/mgm-lottery17.html?langType=1&ICode=vv44x&inviteName=&id=20240612002&bizId=20240612002&shareId=promotion&register-ct=m&register-cid=hk-2022-aug&avatar=#/pages/startAccount.html?channel=040003&aeCode=B2&invitationCode=CYYB5C&langType=zhCn) 进入，**开户审核更快、通过率更高**。
 
 ## 一、开户准备清单
 
