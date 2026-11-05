@@ -103,7 +103,7 @@
 - **人脸识别**：环境光线适宜、动作清晰
 - **位置权限**：App 请求时**必须选择"允许"**，用于验证身处香港
 
-<details>
+<details open>
 <summary>📸 原文截图：材料上传与验证（4 张）</summary>
 
 ![中银香港：上传出入境记录](assets/04-bank-bochk/04-bank-bochk-05.jpg)

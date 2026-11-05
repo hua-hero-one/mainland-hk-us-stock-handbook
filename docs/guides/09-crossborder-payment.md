@@ -104,7 +104,7 @@
 
 > 💡 **北向操作差异**：通过香港银行 APP（中银香港、汇丰香港等）进入「跨境支付通至内地」界面，流程类似但**支持 24 小时汇款**。
 
-<details>
+<details open>
 <summary>📸 原文截图：北向（香港→内地）（2 张）</summary>
 
 ![跨境支付通：香港端「至内地」入口](assets/09-crossborder-payment/09-crossborder-payment-04.jpg)

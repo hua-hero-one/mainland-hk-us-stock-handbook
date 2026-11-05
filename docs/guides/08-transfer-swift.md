@@ -86,7 +86,7 @@
 5. 确认汇率优惠提示 → 点击「确认购汇」
 6. ⚠️ **务必选「现汇」**——**现钞无法转账**
 
-<details>
+<details open>
 <summary>📸 原文截图：购汇流程（3 张）</summary>
 
 ![兴业：进入「结售汇」](assets/08-transfer-swift/08-transfer-swift-01.jpg)
@@ -118,7 +118,7 @@
 | **SWIFT 代码** | 汇丰：`HSBCHKHHHKH`（填后自动关联收款行地址） | 见下方代码表 |
 | **代理行代码** | 同样填 `HSBCHKHHHKH` | 避免中转行扣费 |
 
-<details>
+<details open>
 <summary>📸 原文截图：跨境汇款填写（3 张）</summary>
 
 ![兴业：跨境汇款信息填写](assets/08-transfer-swift/08-transfer-swift-04.jpg)

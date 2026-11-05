@@ -64,7 +64,7 @@
 - 深圳 EMS 发出后，主动打 **11183** 报运单号后四位查件（比短信快 2 天）
 - **防丢操作**：申卡后立刻联系本地邮政所，报姓名 + 电话要求备注（原文称亲测有效）
 
-<details>
+<details open>
 <summary>📸 原文截图：申卡流程（4 张）</summary>
 
 ![蓝狮子：申卡入口](assets/10-card-blue-lion/10-card-blue-lion-01.jpg)

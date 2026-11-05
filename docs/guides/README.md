@@ -136,7 +136,7 @@
 
 ### 配图
 
-原文的 **65 张操作截图**已全部下载并按步骤位置插回对应攻略（连续多图折叠为可展开的 `<details>` 块），图片署名与原始地址见 [assets/ATTRIBUTION.md](assets/ATTRIBUTION.md)。
+原文的 **67 张操作截图** + 复星官方开户流程图，已全部按步骤位置插回对应攻略（共 68 张图片）。连续多图放在 details 折叠块里，且**默认展开**——不用点开就能看到，想收起来再手动折叠。图片署名与原始地址见 [assets/ATTRIBUTION.md](assets/ATTRIBUTION.md)。
 
 ---
 

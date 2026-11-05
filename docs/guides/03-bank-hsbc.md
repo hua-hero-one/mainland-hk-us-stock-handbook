@@ -57,7 +57,7 @@
 3. ⚠️ **截图无效**，必须是 PDF
 4. ⚠️ **需在入境当天操作**，确保记录时间与申请日期一致
 
-<details>
+<details open>
 <summary>📸 原文截图：出入境记录 PDF 的获取（3 张）</summary>
 
 ![汇丰：移民局 12367 查询出入境记录](assets/03-bank-hsbc/03-bank-hsbc-01.jpg)
@@ -101,7 +101,7 @@
 | **税务身份** | 中国居民务必选「**非香港税务居民**」 | 选错会影响港股股息预扣，见 [08 税务](../08-tax-compliance.md#3-香港税务要点) |
 | **收入申报** | **按实际情况填写** | ⚠️ 不建议照抄"填中间值"的做法 |
 
-<details>
+<details open>
 <summary>📸 原文截图：开户申请全流程（11 张）</summary>
 
 ![汇丰开户 4/11](assets/03-bank-hsbc/03-bank-hsbc-04.jpg)

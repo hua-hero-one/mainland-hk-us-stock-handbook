@@ -105,7 +105,7 @@
 3. 填写详细居住地址
 4. 完善职业信息与开户目的（原文建议选「**投资**」）
 
-<details>
+<details open>
 <summary>📸 原文截图：账户信息填写（3 张）</summary>
 
 ![WeLab：设置账户信息](assets/07-bank-virtual-welab/07-bank-virtual-welab-02.jpg)
@@ -137,7 +137,7 @@
 > **原文强调：在香港境内立即开通投资账户，回到内地后将无法补开。**
 > 只需完成简单的风险评估问卷即可。
 
-<details>
+<details open>
 <summary>📸 原文截图：开通投资账户（2 张）</summary>
 
 ![WeLab：开通投资账户入口](assets/07-bank-virtual-welab/07-bank-virtual-welab-06.jpg)
@@ -216,7 +216,7 @@ A：先确认你的券商**当前是否接受虚拟银行入金**——不少券
       → 填写有效期与安全码 → 同意协议并添加 → 输入短信验证码
 ```
 
-<details>
+<details open>
 <summary>📸 原文截图：支付宝绑定（2 张）</summary>
 
 ![WeLab：支付宝绑卡 - 添加银行卡](assets/07b-welab-bind/07b-welab-bind-01.jpg)
@@ -237,7 +237,7 @@ A：先确认你的券商**当前是否接受虚拟银行入金**——不少券
     → 填写卡片信息 → 下一步 → 输入短信验证码
 ```
 
-<details>
+<details open>
 <summary>📸 原文截图：微信绑定（3 张）</summary>
 
 ![WeLab：微信绑卡 - 银行卡入口](assets/07b-welab-bind/07b-welab-bind-03.jpg)
