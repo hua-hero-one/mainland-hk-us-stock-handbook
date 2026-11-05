@@ -1,4 +1,4 @@
-# 12 复星国际证券（Fosun International Securities）港股开户
+# 12 复星国际证券（Fosun International Securities）港美股（免佣）开户
 
 > 复星系持牌券商，SFC 第 1/2/4/9 类牌照。本篇汇总开户条件、十步流程与费用要点。
 
@@ -10,7 +10,7 @@
 
 <a id="promo-12-fosun"></a>
 
-> 💡 **用邀请码开户更快**：带上邀请码 `CYYB5C` 或走[开户邀请链接](https://h5.fotechwealth.com/pages/startAccount.html?channel=040003&aeCode=B2&invitationCode=CYYB5C&langType=zhCn) 进入，**开户审核更快、通过率更高**。
+> 💡 **用邀请码开户更快**：带上邀请码 `CYYB5C` 或走[开户邀请链接](https://h5.fotechwealth.com/pages/startAccount.html?channel=040003&aeCode=B2&invitationCode=CYYB5C&langType=zhCn) 进入，**开户审核更快、通过率更高**，还能额外获得100，300奖励。
 
 ## 一、开户准备清单
 
