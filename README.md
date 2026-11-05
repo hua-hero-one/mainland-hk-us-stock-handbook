@@ -8,7 +8,7 @@
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Last Update](https://img.shields.io/badge/last--update-2026--11-blue)](docs/12-sources.md#4-更新记录changelog)
 
-> [!IMPORTANT]
+> [!注意]
 > **开户前先看：网络环境**
 > 部分券商与银行的 App、开户页面、验证码接口在**内地网络下无法完成提交**——典型表现是提交后一直转圈、验证码收不到、上传证件失败、提示"当前地区不支持"。
 > 解决方式是**全局模式 + 境外节点**；但请注意：**居住地址与税务居民身份仍须如实填写**，网络环境只解决"打不打得开"，不解决"能不能如实申报"。
