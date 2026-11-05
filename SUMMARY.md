@@ -82,8 +82,9 @@
 
 * [攻略集索引](docs/guides/README.md)
   * 券商开户
-    * [致富证券（Chief Group）](docs/guides/01-broker-chief.md)
-    * [盈立证券（Phillip）](docs/guides/02-broker-phillip.md)
+    * [致富证券（Chief Securities）](docs/guides/01-broker-chief.md)
+    * [盈立证券（uSmart）](docs/guides/02-broker-usmart.md)
+    * [复星国际证券（Fosun）](docs/guides/12-broker-fosun.md)
   * 传统银行开户
     * [汇丰香港 HSBC ONE](docs/guides/03-bank-hsbc.md)
     * [中国银行香港 BOCHK](docs/guides/04-bank-bochk.md)
@@ -91,6 +92,7 @@
   * 虚拟银行
     * [众安银行 ZA Bank](docs/guides/06-bank-virtual-zabank.md)
     * [汇立银行 WeLab Bank](docs/guides/07-bank-virtual-welab.md)
+    * [澳门蚂蚁银行 Ant Bank (Macao)](docs/guides/13-bank-ant-macau.md)
   * 资金与用卡
     * [兴业寰宇卡 + SWIFT 电汇](docs/guides/08-transfer-swift.md)
     * [跨境支付通](docs/guides/09-crossborder-payment.md)

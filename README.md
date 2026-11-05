@@ -58,7 +58,7 @@
 | # | 攻略 | 覆盖 |
 | --- | --- | --- |
 | 01 | [致富证券（Chief Group）港股开户](docs/guides/01-broker-chief.md) | 内地身份证全线上开户 |
-| 02 | [盈立证券（Phillip）港股开户](docs/guides/02-broker-phillip.md) | 仍开放内地身份证开户的少数券商 |
+| 02 | [盈立证券（Phillip）港股开户](docs/guides/02-broker-usmart.md) | 仍开放内地身份证开户的少数券商 |
 | 03 | [汇丰香港 HSBC ONE 线上开户](docs/guides/03-bank-hsbc.md) | 30 分钟提交流程 |
 | 04 | [中国银行香港 BOCHK 线上开户](docs/guides/04-bank-bochk.md) | 免排队 + 4 天后额度 20 万/日 |
 | 05 | [恒生银行 Mobile App 开户](docs/guides/05-bank-hang-seng.md) | 秒批出账号、NFC 读证件 |
@@ -68,8 +68,24 @@
 | 09 | [跨境支付通](docs/guides/09-crossborder-payment.md) | 人民币↔港币秒到账 |
 | 10 | [汇丰蓝狮子借记卡](docs/guides/10-card-blue-lion.md) | 12 币种免转换费 + 返现 + 取现成本 |
 | 11 | [2025–2026 港卡新规与材料总表](docs/guides/11-rules-2026.md) | 材料"3+2"、银行选择分层 |
+| 12 | [复星国际证券（Fosun）港股开户](docs/guides/12-broker-fosun.md) | 复星系持牌券商，SFC AAF432 |
+| 13 | [澳门蚂蚁银行（Ant Bank Macao）开户](docs/guides/13-bank-ant-macau.md) | 澳门金管局持牌银行，1 分钟开户，账户内直接做港美股 |
 
 👉 [进入攻略集索引](docs/guides/README.md)
+
+### 🎁 邀请码与推广披露
+
+本仓库**含推广合作并完整披露**：作者与盈立证券、复星国际证券、众安银行、致富证券、澳门蚂蚁银行存在推荐关系，你通过文中邀请码/链接开户，作者获得返佣。**返佣来自机构，不来自你**，且不改变手册对流程与风险的判断。
+
+| 机构 | 邀请码 | 持牌主体（SFC / AMCM 编号） |
+| --- | --- | --- |
+| 盈立证券 | `vv44x` | uSmart Securities（BJA907） |
+| 复星国际证券 | `CYYB5C` | Fosun International Securities（AAF432） |
+| 众安银行 | `R36W28` | ZA Bank（BOJ557） |
+| 致富证券 | `GU7865` | Chief Securities（BWN872） |
+| 澳门蚂蚁银行 | 待补充 | Ant Bank (Macao)（AMCM 持牌） |
+
+👉 [查看完整推广披露与各篇邀请链接](docs/guides/README.md#-推广与邀请码总表)
 
 > ⚠️ **攻略集不改变手册的合规底线。** 其中 [08 兴业电汇](docs/guides/08-transfer-swift.md) 原文建议"购汇用途写因私旅游"，本手册已更正为**申报"证券投资"**并说明了原因。
 

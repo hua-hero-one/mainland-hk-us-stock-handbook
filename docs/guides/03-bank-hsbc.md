@@ -219,4 +219,4 @@ A：可以，见 [05 入金路径图](../05-funding.md#52-入金路径图)。**�
 
 ---
 
-**返回** → [攻略集索引](README.md) · 上一篇 → [02 盈立证券](02-broker-phillip.md) · 下一篇 → [04 中银香港](04-bank-bochk.md)
+**返回** → [攻略集索引](README.md) · 上一篇 → [02 盈立证券](02-broker-usmart.md) · 下一篇 → [04 中银香港](04-bank-bochk.md)

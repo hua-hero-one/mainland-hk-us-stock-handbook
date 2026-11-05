@@ -20,10 +20,11 @@
 
 ### A. 券商开户（港股）
 
-| # | 攻略 | 一句话 |
-| --- | --- | --- |
-| 01 | [致富证券（Chief Group）港股开户](01-broker-chief.md) | 1979 年老牌港资券商，内地身份证全线上开户，0 门槛 |
-| 02 | [盈立证券（Phillip）港股开户](02-broker-phillip.md) | 少数仍接受"内地身份证开户"的香港券商，App 内提交 |
+| # | 攻略 | 一句话 | 推广位 |
+| --- | --- | --- | --- |
+| 01 | [致富证券（Chief Securities）港股开户](01-broker-chief.md) | 1979 年老牌港资券商，内地身份证全线上开户，0 门槛 | ✅ `GU7865` |
+| 02 | [盈立证券（uSmart）港股开户](02-broker-usmart.md) | 少数仍接受"内地身份证开户"的香港券商，App 内提交 | ✅ `vv44x` |
+| 12 | [复星国际证券（Fosun）港股开户](12-broker-fosun.md) | 复星系持牌券商，第 1/2/4/9 类牌照，SFC AAF432 | ✅ `CYYB5C` |
 
 ### B. 香港银行开户（传统行）
 
@@ -33,12 +34,13 @@
 | 04 | [中国银行香港（BOCHK）线上开户](04-bank-bochk.md) | 全程手机操作免排队，线上开户后 4 天额度升至 20 万/日 |
 | 05 | [恒生银行 Mobile App 开户](05-bank-hang-seng.md) | 到港后 10–20 分钟提交，秒批出账号，NFC 读证件芯片 |
 
-### C. 香港虚拟银行
+### C. 虚拟银行
 
-| # | 攻略 | 一句话 |
-| --- | --- | --- |
-| 06 | [众安银行 ZA Bank 开户](06-bank-virtual-zabank.md) | 5 分钟极速开户，多币种 + 0 手续费换汇 |
-| 07 | [汇立银行 WeLab Bank 开户](07-bank-virtual-welab.md) | 纯线上开户，5 分钟完成，新客福利多 |
+| # | 攻略 | 一句话 | 推广位 |
+| --- | --- | --- | --- |
+| 06 | [众安银行 ZA Bank 开户](06-bank-virtual-zabank.md) | 5 分钟极速开户，多币种 + 0 手续费换汇 | ✅ `R36W28` |
+| 07 | [汇立银行 WeLab Bank 开户](07-bank-virtual-welab.md) | 纯线上开户，5 分钟完成，新客福利多 | — |
+| 13 | [澳门蚂蚁银行（Ant Bank Macao）开户](13-bank-ant-macau.md) | 澳门金管局持牌银行，1 分钟开户，**账户内直接做港美股** | ⬜ 待补充 |
 
 ### D. 资金与用卡
 
@@ -51,13 +53,35 @@
 
 ---
 
+## 🎁 推广与邀请码总表
+
+> **本仓库含推广合作，完整披露如下。** 作者（一只会说话的羊咩）与下列机构存在推广/推荐关系，你通过文中的邀请码或邀请链接开户，作者会获得返佣。
+>
+> **三点承诺**：
+> 1. **返佣来自机构，不来自你**——不会影响你的费率、也不会让你多付一分钱
+> 2. **不因返佣改变判断**——该写"政策随时会变"的地方照样写，该标 🚫 红线的照样标
+> 3. **不推你没验证过的产品**——每家的持牌法团名称与牌照编号都已核对 [SFC 公众登记册](https://apps.sfc.hk/publicregWeb/)
+
+| 机构 | 邀请码 | 开户链接 | 持牌主体与编号 | 所属篇 |
+| --- | --- | --- | --- | --- |
+| **盈立证券** | `vv44x` | 见该篇 | 盈立證券有限公司 uSmart Securities（**BJA907**） | [02](02-broker-usmart.md) |
+| **复星国际证券** | `CYYB5C` | 见该篇 | 復星國際證券有限公司 Fosun International Securities（**AAF432**） | [12](12-broker-fosun.md) |
+| **众安银行** | `R36W28` | 见该篇 | 眾安銀行有限公司 ZA Bank（**BOJ557**） | [06](06-bank-virtual-zabank.md) |
+| **致富证券** | `GU7865` | [chiefgroup.com.hk](https://www.chiefgroup.com.hk/hk/open?rl=ECR&PromoCode=GU7865) | 致富證券有限公司 Chief Securities（**BWN872**） | [01](01-broker-chief.md) |
+| **澳门蚂蚁银行** | ⬜ 待补充 | ⬜ 待补充 | 螞蟻銀行（澳門）Ant Bank (Macao)（AMCM 持牌） | [13](13-bank-ant-macau.md) |
+
+**关于"成功率更高、开户速度更快"**：这是推广方口径，本手册**不把它当作已验证的事实**。所以每篇都附了**"开户前先向客服确认三件事"**——默认佣金率、优惠内容与有效期、以及不用邀请码会不会被拒开户。**把这三条的官方回复拿到手，再决定用不用码。**
+
+---
+
 ## 使用建议
 
 | 你的情况 | 建议阅读顺序 |
 | --- | --- |
 | **只想开一个能用的账户** | [11 新规总表](11-rules-2026.md) → 选一家 → 对应单篇 |
 | **想要免排队 / 纯线上** | [03 汇丰](03-bank-hsbc.md)、[04 中银香港](04-bank-bochk.md)、[05 恒生](05-bank-hang-seng.md)、[06 ZA Bank](06-bank-virtual-zabank.md)、[07 WeLab](07-bank-virtual-welab.md) 任选 |
-| **要在香港开券商账户** | [01 致富](01-broker-chief.md) / [02 盈立](02-broker-phillip.md)，同时读 [03 港股开户](../03-hk-account.md) |
+| **要在香港开券商账户** | [01 致富](01-broker-chief.md) / [02 盈立](02-broker-usmart.md) / [12 复星](12-broker-fosun.md)，同时读 [03 港股开户](../03-hk-account.md) |
+| **想用澳门账户顺带做港美股** | [13 澳门蚂蚁银行](13-bank-ant-macau.md)，注意需人在澳门 |
 | **资金出不去 / 想省钱** | [08 电汇](08-transfer-swift.md) + [09 跨境支付通](09-crossborder-payment.md) + [05 入金](../05-funding.md) |
 | **想省下消费和取现的手续费** | [10 蓝狮子](10-card-blue-lion.md) |
 
@@ -106,7 +130,7 @@
 | 来源 | 收录到 |
 | --- | --- |
 | <https://zhuanlan.zhihu.com/p/2037859250710521065> | [01 致富证券](01-broker-chief.md) |
-| <https://zhuanlan.zhihu.com/p/1992233805193425359> | [02 盈立证券](02-broker-phillip.md) |
+| <https://zhuanlan.zhihu.com/p/1992233805193425359> | [02 盈立证券](02-broker-usmart.md) |
 | <https://www.zhihu.com/column/c_1967646104905581431> | [03–11](11-rules-2026.md) 共 9 篇 |
 | <https://zhuanlan.zhihu.com/p/1943285844677984517> | [06 ZA Bank](06-bank-virtual-zabank.md)（专栏同主题，合并去重） |
 
