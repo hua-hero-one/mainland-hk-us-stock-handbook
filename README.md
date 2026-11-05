@@ -51,6 +51,28 @@
 | 11 | [术语表](docs/11-glossary.md) | 80+ 术语中英对照 |
 | 12 | [信息来源与更新记录](docs/12-sources.md) | 官方出处 + 变更日志 |
 
+## 实战攻略集（按券商 / 银行逐个拆解）
+
+手册讲通用逻辑，攻略集讲**具体某一家**——点哪个 App、填什么、按什么顺序、哪里会卡住。共 11 篇，全部整理自知乎一手实操经验并标注出处与时效：
+
+| # | 攻略 | 覆盖 |
+| --- | --- | --- |
+| 01 | [致富证券（Chief Group）港股开户](docs/guides/01-broker-chief.md) | 内地身份证全线上开户 |
+| 02 | [盈立证券（Phillip）港股开户](docs/guides/02-broker-phillip.md) | 仍开放内地身份证开户的少数券商 |
+| 03 | [汇丰香港 HSBC ONE 线上开户](docs/guides/03-bank-hsbc.md) | 30 分钟提交流程 |
+| 04 | [中国银行香港 BOCHK 线上开户](docs/guides/04-bank-bochk.md) | 免排队 + 4 天后额度 20 万/日 |
+| 05 | [恒生银行 Mobile App 开户](docs/guides/05-bank-hang-seng.md) | 秒批出账号、NFC 读证件 |
+| 06 | [众安银行 ZA Bank 开户](docs/guides/06-bank-virtual-zabank.md) | 5 分钟、0 门槛 |
+| 07 | [汇立银行 WeLab Bank 开户](docs/guides/07-bank-virtual-welab.md) | 纯线上 + 新客福利 |
+| 08 | [兴业寰宇卡 + SWIFT 电汇](docs/guides/08-transfer-swift.md) | 汇率折扣、免手续费、SWIFT 代码表 |
+| 09 | [跨境支付通](docs/guides/09-crossborder-payment.md) | 人民币↔港币秒到账 |
+| 10 | [汇丰蓝狮子借记卡](docs/guides/10-card-blue-lion.md) | 12 币种免转换费 + 返现 + 取现成本 |
+| 11 | [2025–2026 港卡新规与材料总表](docs/guides/11-rules-2026.md) | 材料"3+2"、银行选择分层 |
+
+👉 [进入攻略集索引](docs/guides/README.md)
+
+> ⚠️ **攻略集不改变手册的合规底线。** 其中 [08 兴业电汇](docs/guides/08-transfer-swift.md) 原文建议"购汇用途写因私旅游"，本手册已更正为**申报"证券投资"**并说明了原因。
+
 ## 三句话版本
 
 1. **港股最容易，美股次之，但"开户"从来不是瓶颈，"入金"才是。**
