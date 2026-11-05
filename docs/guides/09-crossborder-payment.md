@@ -68,6 +68,11 @@
 - 打开工行 / 农行 / 中行 / 招行等 APP（**需更新至最新版本**）
 - 搜索「**跨境支付通**」进入功能页
 
+![跨境支付通：手机银行功能入口](assets/09-crossborder-payment/09-crossborder-payment-01.jpg)
+
+*跨境支付通：手机银行功能入口*
+
+
 ### 2️⃣ 填写收款信息（关键！）
 
 | 字段 | 填法 |
@@ -83,11 +88,35 @@
 - 系统自动显示**实时汇率（15 分钟内有效）**
 - 用途按实际选择（南向为消费/旅游/生活费类）
 
+![跨境支付通：金额、汇率与用途](assets/09-crossborder-payment/09-crossborder-payment-02.jpg)
+
+*跨境支付通：金额、汇率与用途*
+
+
 ### 4️⃣ 提交并查收
 
 - 确认后**资金秒到账**，可截图通知收款人
 
+![跨境支付通：提交成功](assets/09-crossborder-payment/09-crossborder-payment-03.jpg)
+
+*跨境支付通：提交成功*
+
+
 > 💡 **北向操作差异**：通过香港银行 APP（中银香港、汇丰香港等）进入「跨境支付通至内地」界面，流程类似但**支持 24 小时汇款**。
+
+<details>
+<summary>📸 原文截图：北向（香港→内地）（2 张）</summary>
+
+![跨境支付通：香港端「至内地」入口](assets/09-crossborder-payment/09-crossborder-payment-04.jpg)
+
+*跨境支付通：香港端「至内地」入口*
+
+![跨境支付通：北向转账界面](assets/09-crossborder-payment/09-crossborder-payment-05.jpg)
+
+*跨境支付通：北向转账界面*
+
+</details>
+
 
 ---
 

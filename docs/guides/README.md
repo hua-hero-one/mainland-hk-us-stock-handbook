@@ -110,4 +110,10 @@
 | <https://www.zhihu.com/column/c_1967646104905581431> | [03–11](11-rules-2026.md) 共 9 篇 |
 | <https://zhuanlan.zhihu.com/p/1943285844677984517> | [06 ZA Bank](06-bank-virtual-zabank.md)（专栏同主题，合并去重） |
 
+### 配图
+
+原文的 **65 张操作截图**已全部下载并按步骤位置插回对应攻略（连续多图折叠为可展开的 `<details>` 块），图片署名与原始地址见 [assets/ATTRIBUTION.md](assets/ATTRIBUTION.md)。
+
+---
+
 **返回** → [手册首页](../../README.md)

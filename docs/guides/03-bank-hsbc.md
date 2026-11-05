@@ -57,6 +57,24 @@
 3. ⚠️ **截图无效**，必须是 PDF
 4. ⚠️ **需在入境当天操作**，确保记录时间与申请日期一致
 
+<details>
+<summary>📸 原文截图：出入境记录 PDF 的获取（3 张）</summary>
+
+![汇丰：移民局 12367 查询出入境记录](assets/03-bank-hsbc/03-bank-hsbc-01.jpg)
+
+*汇丰：移民局 12367 查询出入境记录*
+
+![汇丰：下载带红章的 PDF](assets/03-bank-hsbc/03-bank-hsbc-02.jpg)
+
+*汇丰：下载带红章的 PDF*
+
+![汇丰：出入境记录 PDF 示例](assets/03-bank-hsbc/03-bank-hsbc-03.jpg)
+
+*汇丰：出入境记录 PDF 示例*
+
+</details>
+
+
 ### 其他
 
 - 常用**英文邮箱**（接收账户通知）
@@ -82,6 +100,56 @@
 | **开户原因** | 勾选「**储蓄/投资**」或「日常理财」 | 原文提醒：避免选「薪资」「学费支付」，可能触发额外审核 |
 | **税务身份** | 中国居民务必选「**非香港税务居民**」 | 选错会影响港股股息预扣，见 [08 税务](../08-tax-compliance.md#3-香港税务要点) |
 | **收入申报** | **按实际情况填写** | ⚠️ 不建议照抄"填中间值"的做法 |
+
+<details>
+<summary>📸 原文截图：开户申请全流程（11 张）</summary>
+
+![汇丰开户 4/11](assets/03-bank-hsbc/03-bank-hsbc-04.jpg)
+
+*汇丰开户 4/11*
+
+![汇丰开户 5/11](assets/03-bank-hsbc/03-bank-hsbc-05.jpg)
+
+*汇丰开户 5/11*
+
+![汇丰开户 6/11](assets/03-bank-hsbc/03-bank-hsbc-06.jpg)
+
+*汇丰开户 6/11*
+
+![汇丰开户 7/11](assets/03-bank-hsbc/03-bank-hsbc-07.jpg)
+
+*汇丰开户 7/11*
+
+![汇丰开户 8/11](assets/03-bank-hsbc/03-bank-hsbc-08.jpg)
+
+*汇丰开户 8/11*
+
+![汇丰开户 9/11](assets/03-bank-hsbc/03-bank-hsbc-09.jpg)
+
+*汇丰开户 9/11*
+
+![汇丰开户 10/11](assets/03-bank-hsbc/03-bank-hsbc-10.jpg)
+
+*汇丰开户 10/11*
+
+![汇丰开户 11/11](assets/03-bank-hsbc/03-bank-hsbc-11.jpg)
+
+*汇丰开户 11/11*
+
+![汇丰开户 12/11](assets/03-bank-hsbc/03-bank-hsbc-12.jpg)
+
+*汇丰开户 12/11*
+
+![汇丰开户 13/11](assets/03-bank-hsbc/03-bank-hsbc-13.jpg)
+
+*汇丰开户 13/11*
+
+![汇丰开户 14/11](assets/03-bank-hsbc/03-bank-hsbc-14.jpg)
+
+*汇丰开户 14/11*
+
+</details>
+
 
 ### ✅ 第三步：身份验证与提交
 

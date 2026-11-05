@@ -86,6 +86,24 @@
 5. 确认汇率优惠提示 → 点击「确认购汇」
 6. ⚠️ **务必选「现汇」**——**现钞无法转账**
 
+<details>
+<summary>📸 原文截图：购汇流程（3 张）</summary>
+
+![兴业：进入「结售汇」](assets/08-transfer-swift/08-transfer-swift-01.jpg)
+
+*兴业：进入「结售汇」*
+
+![兴业：选择币种与金额](assets/08-transfer-swift/08-transfer-swift-02.jpg)
+
+*兴业：选择币种与金额*
+
+![兴业：确认购汇与汇率优惠](assets/08-transfer-swift/08-transfer-swift-03.jpg)
+
+*兴业：确认购汇与汇率优惠*
+
+</details>
+
+
 > 💡 **先开户再购汇**：手里有券商的开户确认信和对账单，银行做真实性审核会快得多。见 [05 入金 § 购汇与额度](../05-funding.md#51-购汇与年度便利化额度)。
 
 ### Step 2｜填写跨境汇款信息
@@ -99,6 +117,24 @@
 | **收款人地址** | 具体到门牌号的香港英文地址 | ⚠️ 原文强调：填「香港迪士尼酒店」这类**不够具体**的地址可能被退 |
 | **SWIFT 代码** | 汇丰：`HSBCHKHHHKH`（填后自动关联收款行地址） | 见下方代码表 |
 | **代理行代码** | 同样填 `HSBCHKHHHKH` | 避免中转行扣费 |
+
+<details>
+<summary>📸 原文截图：跨境汇款填写（3 张）</summary>
+
+![兴业：跨境汇款信息填写](assets/08-transfer-swift/08-transfer-swift-04.jpg)
+
+*兴业：跨境汇款信息填写*
+
+![兴业：手续费显示为 0](assets/08-transfer-swift/08-transfer-swift-05.jpg)
+
+*兴业：手续费显示为 0*
+
+![兴业：电子回单](assets/08-transfer-swift/08-transfer-swift-06.jpg)
+
+*兴业：电子回单*
+
+</details>
+
 
 ### Step 3｜提交与跟踪
 
