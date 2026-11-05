@@ -10,7 +10,7 @@
 
 <a id="promo-12-fosun"></a>
 
-> 💡 **用邀请码开户更快**：带上邀请码 `CYYB5C` 或走[开户邀请链接](https://h5.fotechwealth.com/pages/startAccount.html?channel=040003&aeCode=B2&invitationCode=CYYB5C&langType=zhCn) 进入，**开户审核更快、通过率更高**，还能额外获得100，300奖励。
+> 💡 **用邀请码开户更快**：带上邀请码 `CYYB5C` 或走[开户邀请链接](https://h5.fotechwealth.com/pages/startAccount.html?channel=040003&aeCode=B2&invitationCode=CYYB5C&langType=zhCn) 进入，**开户审核更快、通过率更高，还能额外获得100，300奖励**。
 
 ## 一、开户准备清单
 
