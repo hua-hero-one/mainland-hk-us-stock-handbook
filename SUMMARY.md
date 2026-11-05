@@ -78,14 +78,14 @@
 * [术语表](docs/11-glossary.md)
 * [信息来源与更新记录](docs/12-sources.md)
 
-## 13 网络环境
+## 13 网络环境与全局模式
 
-* [为什么必须开全局模式](docs/13-network-environment.md#一为什么需要它这是技术问题不是偏好)
+* [为什么需要：技术性阻断](docs/13-network-environment.md#一为什么需要技术性阻断)
 * [全局模式 vs 规则模式](docs/13-network-environment.md#二全局模式-vs-规则模式)
 * [IP 与申报信息必须自洽](docs/13-network-environment.md#三核心原则网络环境与申报信息必须自洽)
-* [各平台实际表现](docs/13-network-environment.md#四各平台的实际表现)
-* [实操清单](docs/13-network-environment.md#五实操清单照着做就行)
-* [红线清单](docs/13-network-environment.md#七-红线清单)
+* [各平台实际表现](docs/13-network-environment.md#四各平台实际表现)
+* [实操清单](docs/13-network-environment.md#五实操清单)
+* [红线清单](docs/13-network-environment.md#六-红线清单)
 
 ## 实战攻略集
 

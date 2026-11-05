@@ -4,9 +4,15 @@
 > 覆盖：行前准备 → 开户 → 入金 → 交易 → 费用 → 税务与合规 → 风险。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Docs](https://img.shields.io/badge/docs-12%20chapters-007ec6)](SUMMARY.md)
+[![Docs](https://img.shields.io/badge/docs-13%20chapters-007ec6)](SUMMARY.md)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Last Update](https://img.shields.io/badge/last--update-2026--11-blue)](docs/12-sources.md#4-更新记录changelog)
+
+> [!IMPORTANT]
+> **开户前先看：网络环境**
+> 部分券商与银行的 App、开户页面、验证码接口在**内地网络下无法完成提交**——典型表现是提交后一直转圈、验证码收不到、上传证件失败、提示"当前地区不支持"。
+> 解决方式是**全局模式 + 境外节点**；但请注意：**居住地址与税务居民身份仍须如实填写**，网络环境只解决"打不打得开"，不解决"能不能如实申报"。
+> 👉 [13 网络环境与全局模式](docs/13-network-environment.md)
 
 ---
 
@@ -26,7 +32,7 @@
 
 ## 阅读顺序
 
-新读者建议按 `01 → 12` 顺序读一遍（约 40 分钟）。急用可以直接跳到：
+新读者建议按 `01 → 13` 顺序读一遍（约 40 分钟）。急用可以直接跳到：
 
 - 只想开港股 → [03 港股开户](docs/03-hk-account.md) + [05 入金](docs/05-funding.md)
 - 只想开美股 → [04 美股开户](docs/04-us-account.md) + [05 入金](docs/05-funding.md)
@@ -50,7 +56,7 @@
 | 10 | [常见问题 FAQ](docs/10-faq.md) | 25 条高频问答 |
 | 11 | [术语表](docs/11-glossary.md) | 80+ 术语中英对照 |
 | 12 | [信息来源与更新记录](docs/12-sources.md) | 官方出处 + 变更日志 |
-| 13 | [网络环境：为什么必须开全局模式](docs/13-network-environment.md) | 内地网络下的技术阻断、全局 vs 规则、**IP 与申报信息自洽原则** |
+| 13 | [网络环境与全局模式](docs/13-network-environment.md) | 内地网络下的技术阻断、全局 vs 规则、**IP 与申报信息自洽原则** |
 
 ## 实战攻略集（按券商 / 银行逐个拆解）
 
