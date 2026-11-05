@@ -9,7 +9,7 @@
 
 <a id="promo-13-antmacau"></a>
 
-> 💡 **用邀请码开户更快**：带上邀请码 `LPUC8SWD` 或走[开户邀请链接](https://render.alipay.com/p/c/180020570000149153/index.html?invite-code=LPUC8SWD) 进入，**开户审核更快、通过率更高**。
+> 💡 **用邀请码开户更快**：带上邀请码 `LPUC8SWD` 或走[开户邀请链接](https://render.alipay.com/p/c/180020570000149153/index.html?invite-code=LPUC8SWD) 进入，**开户审核更快、通过率更高，还能获得2股阿里巴巴股票+2股小米股票+600佣金抵扣券+iphone**。
 >
 > ⚠️ **顺序很重要**：**先通过邀请链接完成注册，再下载 App**，否则邀请关系拿不到。
 
