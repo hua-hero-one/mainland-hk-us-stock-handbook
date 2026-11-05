@@ -94,7 +94,9 @@
 
 ## 联系与交流
 
-<img src="assets/wechat-qr.jpg" alt="微信二维码：跨境通" width="240">
+<p align="center">
+  <img src="assets/wechat-qr.jpg" alt="微信二维码：跨境通" width="240">
+</p>
 
 **微信：跨境通**（广东 · 深圳）
 
