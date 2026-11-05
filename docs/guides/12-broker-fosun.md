@@ -59,6 +59,8 @@ https://hk.usmartbroker.com/marketing/mgm-poster/mgm-lottery17.html?langType=1&I
 
 ---
 
+> 🌐 **网络环境**：部分券商/银行的 App 与开户页面在**内地网络下无法完成提交**。解法是**全局模式 + 境外节点**，但**居住地址与税务居民身份仍须如实填写**。详见 [13 网络环境](../13-network-environment.md)
+
 ## 一、开户准备清单
 
 | # | 材料 | 要求 |

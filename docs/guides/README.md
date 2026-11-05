@@ -69,6 +69,7 @@
 | **众安银行** | `R36W28` | 见该篇 | 眾安銀行有限公司 ZA Bank（**BOJ557**） | [06](06-bank-virtual-zabank.md) |
 | **致富证券** | `GU7865` | [chiefgroup.com.hk](https://www.chiefgroup.com.hk/hk/open?rl=ECR&PromoCode=GU7865) | 致富證券有限公司 Chief Securities（**BWN872**） | [01](01-broker-chief.md) |
 | **澳门蚂蚁银行** | `LPT3B5BA` | [点击进入](https://render.alipay.com/p/c/180020570000149153/index.html?invite-code=LPT3B5BA) | 螞蟻銀行（澳門）Ant Bank (Macao)（AMCM 持牌） | [13](13-bank-ant-macau.md) |
+| **CloudSS（网络环境工具）** | `aff=10343` | [点击进入](https://buy.cloudss.org/aff.php?aff=10343) | 非金融机构 | [13 网络环境](../13-network-environment.md) |
 
 **关于"成功率更高、开户速度更快"**：这是推广方口径，本手册**不把它当作已验证的事实**。所以每篇都附了**"开户前先向客服确认三件事"**——默认佣金率、优惠内容与有效期、以及不用邀请码会不会被拒开户。**把这三条的官方回复拿到手，再决定用不用码。**
 
