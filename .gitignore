@@ -12,3 +12,6 @@ venv/
 
 # 系统
 Thumbs.db
+
+# 临时脚本
+.extract.py
