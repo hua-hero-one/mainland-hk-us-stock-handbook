@@ -30,7 +30,7 @@ App 名「香港盈立证券」、注册域名 `m.usmart66.com` 均指向 **uSma
 
 <a id="promo-02-usmart"></a>
 
-> 💡 **用邀请码开户更快**：带上邀请码 `vv44x` 进入，**开户审核更快、通过率更高**。
+> 💡 **用邀请码开户更快**：带上邀请码 `vv44x`或邀请链接(https://hk.usmartbroker.com/marketing/mgm-poster/mgm-lottery17.html?langType=1&ICode=vv44x&inviteName=&id=20240612002&bizId=20240612002&shareId=promotion&register-ct=m&register-cid=hk-2022-aug&avatar=#/) 进入，**开户审核更快、通过率更高**。
 
 ## 一、平台背景与定位
 
