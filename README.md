@@ -83,7 +83,7 @@
 | 复星国际证券 | `CYYB5C` | Fosun International Securities（AAF432） |
 | 众安银行 | `R36W28` | ZA Bank（BOJ557） |
 | 致富证券 | `GU7865` | Chief Securities（BWN872） |
-| 澳门蚂蚁银行 | 待补充 | Ant Bank (Macao)（AMCM 持牌） |
+| 澳门蚂蚁银行 | `LPT3B5BA` | Ant Bank (Macao)（AMCM 持牌） |
 
 👉 [查看完整推广披露与各篇邀请链接](docs/guides/README.md#-推广与邀请码总表)
 

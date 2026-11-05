@@ -1,6 +1,6 @@
 # 图片署名与来源
 
-> `docs/guides/assets/` 下的 **65 张截图**全部来自知乎原文文章，用于说明开户与操作步骤。
+> `docs/guides/assets/` 下的 **67 张截图**全部来自知乎原文文章，用于说明开户与操作步骤。
 > 版权归原作者及知乎平台所有，此处仅作技术科普引用；如原作者有异议请提 Issue，我们会移除。
 
 | 文件 | 原文 | 原文地址 |
@@ -69,6 +69,8 @@
 | `10-card-blue-lion/10-card-blue-lion-03.jpg` | 汇丰蓝狮子实测 | https://zhuanlan.zhihu.com/p/1929602965393642802 |
 | `10-card-blue-lion/10-card-blue-lion-04.jpg` | 汇丰蓝狮子实测 | https://zhuanlan.zhihu.com/p/1929602965393642802 |
 | `11-rules-2026/11-rules-2026-01.jpg` | 2025 港卡办理新规 | https://zhuanlan.zhihu.com/p/1930645691513939756 |
+| `13-bank-ant-macau/13-bank-ant-macau-01.jpg` | 澳门蚂蚁银行开户攻略 | https://zhuanlan.zhihu.com/p/2014019176193361555 |
+| `13-bank-ant-macau/13-bank-ant-macau-02.jpg` | 澳门蚂蚁银行开户攻略 | https://zhuanlan.zhihu.com/p/2014019176193361555 |
 | `11-rules-2026/11-rules-2026-02.jpg` | 2025 港卡办理新规 | https://zhuanlan.zhihu.com/p/1930645691513939756 |
 
 ---

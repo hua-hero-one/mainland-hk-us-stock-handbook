@@ -40,7 +40,7 @@
 | --- | --- | --- | --- |
 | 06 | [众安银行 ZA Bank 开户](06-bank-virtual-zabank.md) | 5 分钟极速开户，多币种 + 0 手续费换汇 | ✅ `R36W28` |
 | 07 | [汇立银行 WeLab Bank 开户](07-bank-virtual-welab.md) | 纯线上开户，5 分钟完成，新客福利多 | — |
-| 13 | [澳门蚂蚁银行（Ant Bank Macao）开户](13-bank-ant-macau.md) | 澳门金管局持牌银行，1 分钟开户，**账户内直接做港美股** | ⬜ 待补充 |
+| 13 | [澳门蚂蚁银行（Ant Bank Macao）开户](13-bank-ant-macau.md) | 澳门金管局持牌银行，1 分钟开户，**账户内直接做港美股** | ✅ `LPT3B5BA` |
 
 ### D. 资金与用卡
 
@@ -68,7 +68,7 @@
 | **复星国际证券** | `CYYB5C` | 见该篇 | 復星國際證券有限公司 Fosun International Securities（**AAF432**） | [12](12-broker-fosun.md) |
 | **众安银行** | `R36W28` | 见该篇 | 眾安銀行有限公司 ZA Bank（**BOJ557**） | [06](06-bank-virtual-zabank.md) |
 | **致富证券** | `GU7865` | [chiefgroup.com.hk](https://www.chiefgroup.com.hk/hk/open?rl=ECR&PromoCode=GU7865) | 致富證券有限公司 Chief Securities（**BWN872**） | [01](01-broker-chief.md) |
-| **澳门蚂蚁银行** | ⬜ 待补充 | ⬜ 待补充 | 螞蟻銀行（澳門）Ant Bank (Macao)（AMCM 持牌） | [13](13-bank-ant-macau.md) |
+| **澳门蚂蚁银行** | `LPT3B5BA` | [点击进入](https://render.alipay.com/p/c/180020570000149153/index.html?invite-code=LPT3B5BA) | 螞蟻銀行（澳門）Ant Bank (Macao)（AMCM 持牌） | [13](13-bank-ant-macau.md) |
 
 **关于"成功率更高、开户速度更快"**：这是推广方口径，本手册**不把它当作已验证的事实**。所以每篇都附了**"开户前先向客服确认三件事"**——默认佣金率、优惠内容与有效期、以及不用邀请码会不会被拒开户。**把这三条的官方回复拿到手，再决定用不用码。**
 
