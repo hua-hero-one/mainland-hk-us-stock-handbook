@@ -1,4 +1,4 @@
-# 02 盈立证券（uSmart）港股开户
+# 02 盈立证券（uSmart）港美股开户
 
 > 国内外金融政策收紧后，老虎、富途、长桥等主流平台普遍要求海外居住/工作证明，**盈立是目前仍接受"内地身份证直接开户"的少数香港券商之一**。
 
@@ -30,7 +30,7 @@ App 名「香港盈立证券」、注册域名 `m.usmart66.com` 均指向 **uSma
 
 <a id="promo-02-usmart"></a>
 
-> 💡 **用邀请码开户更快**：带上邀请码 `vv44x` 或走[开户邀请链接](https://hk.usmartbroker.com/marketing/mgm-poster/mgm-lottery17.html?langType=1&ICode=vv44x&inviteName=&id=20240612002&bizId=20240612002&shareId=promotion&register-ct=m&register-cid=hk-2022-aug&avatar=#/pages/startAccount.html?channel=040003&aeCode=B2&langType=zhCn) 进入，**开户审核更快、通过率更高**。
+> 💡 **用邀请码开户更快**：带上邀请码 `vv44x` 或走[开户邀请链接](https://hk.usmartbroker.com/marketing/mgm-poster/mgm-lottery17.html?langType=1&ICode=vv44x&inviteName=&id=20240612002&bizId=20240612002&shareId=promotion&register-ct=m&register-cid=hk-2022-aug&avatar=#/pages/startAccount.html?channel=040003&aeCode=B2&langType=zhCn) 进入，**开户审核更快、通过率更高，另外还有额外的460新人奖励**。
 
 ## 一、平台背景与定位
 
