@@ -16,7 +16,7 @@
 
 <a id="promo-01-chief"></a>
 
-> 💡 **用邀请码开户更快**：带上邀请码 `GU7865` 或直接走[开户邀请链接](https://www.chiefgroup.com.hk/hk/open?rl=ECR&PromoCode=GU7865) 进入，**开户审核更快、通过率更高**，另外最高可以获得新人8888奖励。
+> 💡 **用邀请码开户更快**：带上邀请码 `GU7865` 或直接走[开户邀请链接](https://www.chiefgroup.com.hk/hk/open?rl=ECR&PromoCode=GU7865) 进入，**开户审核更快、通过率更高，另外最高可以获得新人8888奖励**。
 
 ## 一、为什么是致富证券
 
