@@ -10,7 +10,7 @@
 
 <a id="promo-12-fosun"></a>
 
-> 💡 **用邀请码开户更快**：带上邀请码 `CYYB5C` 或走[开户邀请链接](https://hk.usmartbroker.com/marketing/mgm-poster/mgm-lottery17.html?langType=1&ICode=vv44x&inviteName=&id=20240612002&bizId=20240612002&shareId=promotion&register-ct=m&register-cid=hk-2022-aug&avatar=#/pages/startAccount.html?channel=040003&aeCode=B2&invitationCode=CYYB5C&langType=zhCn) 进入，**开户审核更快、通过率更高**。
+> 💡 **用邀请码开户更快**：带上邀请码 `CYYB5C` 或走[开户邀请链接](https://h5.fotechwealth.com/pages/startAccount.html?channel=040003&aeCode=B2&invitationCode=CYYB5C&langType=zhCn) 进入，**开户审核更快、通过率更高**。
 
 ## 一、开户准备清单
 
